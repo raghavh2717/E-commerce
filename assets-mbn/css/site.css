@@ -332,8 +332,7 @@ nav {
 	background-color: #ae2f2f;
 }
 .brdr-btm {
-	margin-bottom: 50px;
-	border-bottom: 0.5px solid #c6c6c6;
+    border-bottom: 0.5px solid #dbdbdb;
 }
 
 
@@ -545,7 +544,7 @@ footer{
 	.price {
 		font-size: 15px;
 	}
-	.brdr-btm {
+.brdr-btm {
     border-bottom: 0.5px solid #dbdbdb;
 }
 	.main-btn {
