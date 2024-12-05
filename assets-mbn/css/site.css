@@ -7,8 +7,6 @@
 body {
     font-family: "Poppins", sans-serif;
 }
-
-
 /* commom css */
 img{
   width: 100%;
@@ -761,7 +759,7 @@ footer{
 }
 }
 
-@media (max-width: 390px) {
+@media (max-width: 400px) {
 	.navbar ul {
 		display: none;
 	}
@@ -793,7 +791,7 @@ footer{
 	.main-btn {
 		margin: 14px auto 3em;
 		font-size: 11px;
-    padding: 9px 30px;
+    		padding: 9px 30px;
 	}
 	.cat-name {
 		font-size: 13px;
