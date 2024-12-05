@@ -546,8 +546,8 @@ footer{
 		font-size: 15px;
 	}
 	.brdr-btm {
-		border-bottom: 0.5px solid #f6f3f3;
-	}
+    border-bottom: 0.5px solid #dbdbdb;
+}
 	.main-btn {
 		font-size: 13px;
 		padding: 10px 30px;
