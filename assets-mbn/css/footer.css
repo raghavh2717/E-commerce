@@ -81,6 +81,10 @@ footer{
 	.qr-code {
 		max-width: 200px;
 	}
+	.footer-icons {
+    justify-content: inherit;
+    gap: 0 37px;
+}
 }
 @media (max-width: 560px) {
 	.footer-btm p {
