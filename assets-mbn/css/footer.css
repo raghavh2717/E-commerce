@@ -82,9 +82,13 @@ footer{
 		max-width: 200px;
 	}
 	.footer-icons {
-    justify-content: inherit;
-    gap: 0 37px;
-}
+		justify-content: inherit;
+		gap: 0 37px;
+	}
+	.footer-row.row {
+    padding: 35px 0px;
+    flex-wrap: wrap;
+  }
 }
 @media (max-width: 560px) {
 	.footer-btm p {
